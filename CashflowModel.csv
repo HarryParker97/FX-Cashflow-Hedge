@@ -1,0 +1,7 @@
+﻿Date,Fund,Cashflow Type, Cashflow Amount (in Local Asset Currecny) , Local Asset Currency ,Fund Currency,Base Case IRR
+31/08/2021,Validus V,Equity,"-100,000,000.00 ", GBP ,USD,15.0%
+31/08/2022,Validus V,Proceeds," 15,000,000.00 ", GBP ,USD,
+31/08/2023,Validus V,Proceeds," 15,000,000.00 ", GBP ,USD,
+31/08/2024,Validus V,Proceeds," 15,000,000.00 ", GBP ,USD,
+31/08/2025,Validus V,Proceeds," 15,000,000.00 ", GBP ,USD,
+31/08/2026,Validus V,Proceeds," 115,000,000.00 ", GBP ,USD,
